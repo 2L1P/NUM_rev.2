@@ -31,7 +31,7 @@
 <h2>How to use vial:</h2>
 <p>Once you plug in your ProMicro, click the refresh button on the right left corner</p>
 <p>The followings should show up:</p>
-<img src="https://user-images.githubusercontent.com/85400245/121808770-ae7f5400-cc8c-11eb-956b-61c9a939fe1d.png"></img>
+<img src="https://user-images.githubusercontent.com/85400245/132850995-4dca349b-975c-49a0-bcaf-9e9eb0fe96c7.png"></img>
 <p>choose the key you want to remap and then click the keys below to apply changes!</p>
 <br>
 <h2>Hardware build guide</h2>
@@ -53,3 +53,6 @@
 <img src="https://user-images.githubusercontent.com/85400245/121810140-361b9180-cc92-11eb-9a19-97192be1b37a.jpg" width="600"></img>
 <br>
 <p>Congratulations! You have finished reading the whole build guide for the your NUM numpad (rev.2)! It is my pleasure to be in this journey with all of you! Hope you enjoy your numpad!</p>
+  
+
+
